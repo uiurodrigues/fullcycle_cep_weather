@@ -16,7 +16,7 @@ System made for finding the weather of an specific CEP.
 
 ## Usage
 
-1. Execute an Get request on the address htt://localhost:8080/weather/{cep}, replacing the {cep} for one valid CEP
+1. Execute an Get request on the address http://localhost:8080/weather/{cep}, replacing the {cep} for one valid CEP
 2. It will returns:
     - 200: The request is valid and the response should be shown
     - 404: CEP not found
